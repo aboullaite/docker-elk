@@ -1,0 +1,4 @@
+cluster.name: docker-morocco-example
+node.name: docker-node-1
+path.data: /home/esuser/data
+network.host: "0.0.0.0"
